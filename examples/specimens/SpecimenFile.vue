@@ -4,7 +4,7 @@
     <div class="specimen specimen">
       <h3>Text</h3>
       <FormulateInput
-        v-model="value"
+        v-model="modelValue"
         label="Upload a file"
         type="file"
         help="Select any file to upload"

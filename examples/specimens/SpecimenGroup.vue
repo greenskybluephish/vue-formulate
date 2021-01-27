@@ -5,6 +5,7 @@
       <h3>Non-repeatable group</h3>
       <FormulateInput
         type="group"
+        name="inputGroup"
       >
         <FormulateInput
           label="City"
